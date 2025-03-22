@@ -704,7 +704,7 @@ classDiagram
     Hotel *-- Cliente
 ```
 
-#### 📌 **Explicación del Diagrama UML**
+#### 📌 **Explicacion del Diagrama UML**
 
 - El diagrama muestra tres clases principales: `Hotel`, `Habitacion` y `Cliente`.
 - Las relaciones están representadas por líneas con un rombo lleno (`*--`), lo cual indica **Composición**.
